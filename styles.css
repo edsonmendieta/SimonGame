@@ -100,3 +100,17 @@ body {
 }
 
 /***************************************/
+
+/******* Control Panel Circle *********/
+
+#cpCircle {
+    position: relative;
+    top: -25.5em;
+    left: 6.5em;
+    height: 19em;
+    width: 19em;
+    border: solid red 8px;
+    border-radius: 150px;
+    background-color: white;
+}
+/**************************************/
