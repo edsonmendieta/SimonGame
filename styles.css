@@ -69,34 +69,38 @@ body {
     float: right;
 }
 
-/***********RoundBoxBorders*************/
+/******* Colors & RoundBoxBorders ******/
 
 #cbRed{
+    background-color: #C14444;
     border-top-left-radius: 250px;
-    border-left: solid midnightblue 8px;
-    border-top: solid midnightblue 8px;
-    border-bottom: solid midnightblue 8px;
+    border-left: solid 8px;
+    border-top: solid 8px;
+    border-bottom: solid 8px;
 }
 
 #cbGreen {
+    background-color: #3C7E2A;
     border-top-right-radius: 250px;
-    border-top: solid midnightblue 8px;
-    border-right: solid midnightblue 8px;
-    border-left: solid midnightblue 8px;
-    border-bottom: solid midnightblue 8px;
+    border-top: solid 8px;
+    border-right: solid 8px;
+    border-left: solid 8px;
+    border-bottom: solid 8px;
 }
 
 #cbBlue {
+    background-color: #1D4058;
     border-bottom-left-radius: 250px;
-    border-left: solid midnightblue 8px;
-    border-bottom: solid midnightblue 8px;
+    border-left: solid 8px;
+    border-bottom: solid 8px;
 }
 
 #cbYellow {
+    background-color: #958532;
     border-bottom-right-radius: 250px;
-    border-right: solid midnightblue 8px;
-    border-bottom: solid midnightblue 8px;
-    border-left: solid midnightblue 8px;
+    border-right: solid 8px;
+    border-bottom: solid 8px;
+    border-left: solid 8px;
 }
 
 /***************************************/
@@ -109,8 +113,16 @@ body {
     left: 6.5em;
     height: 19em;
     width: 19em;
-    border: solid red 8px;
+    border: solid 8px;
     border-radius: 150px;
     background-color: white;
+}
+
+#name {
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    font-size: 400%;
+    margin-top: 40px;
 }
 /**************************************/
