@@ -68,3 +68,19 @@ body {
 #cbGreen, #cbYellow {
     float: right;
 }
+
+#cbRed{
+    border-top-left-radius: 250px;
+}
+
+#cbGreen {
+    border-top-right-radius: 250px;
+}
+
+#cbBlue {
+    border-bottom-left-radius: 250px;
+}
+
+#cbYellow {
+    border-bottom-right-radius: 250px;
+}
