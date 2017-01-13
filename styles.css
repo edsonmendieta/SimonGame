@@ -1,6 +1,14 @@
-/******************************************\
+/************************
+	$Font Imports
+************************/
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:700');
+
+@import url('https://fonts.googleapis.com/css?family=Carter+One|Ubuntu:700');
+
+/*****************************************
                 $CSS Reset
-\******************************************/
+*****************************************/
 
 /* basic elements */
 body, html, section, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
@@ -72,35 +80,35 @@ body {
 /******* Colors & RoundBoxBorders ******/
 
 #cbRed{
-    background-color: #C14444;
+    background-color: #DC050A;
     border-top-left-radius: 250px;
-    border-left: solid 8px;
-    border-top: solid 8px;
-    border-bottom: solid 8px;
+    border-left: solid 16px;
+    border-top: solid 16px;
+    border-bottom: solid 16px;
 }
 
 #cbGreen {
-    background-color: #3C7E2A;
+    background-color: #00A50E;
     border-top-right-radius: 250px;
-    border-top: solid 8px;
-    border-right: solid 8px;
-    border-left: solid 8px;
-    border-bottom: solid 8px;
+    border-top: solid 16px;
+    border-right: solid 16px;
+    border-left: solid 16px;
+    border-bottom: solid 16px;
 }
 
 #cbBlue {
-    background-color: #1D4058;
+    background-color: #0093F3;
     border-bottom-left-radius: 250px;
-    border-left: solid 8px;
-    border-bottom: solid 8px;
+    border-left: solid 16px;
+    border-bottom: solid 16px;
 }
 
 #cbYellow {
-    background-color: #958532;
+    background-color: #FDF001;
     border-bottom-right-radius: 250px;
-    border-right: solid 8px;
-    border-bottom: solid 8px;
-    border-left: solid 8px;
+    border-right: solid 16px;
+    border-bottom: solid 16px;
+    border-left: solid 16px;
 }
 
 /***************************************/
@@ -113,7 +121,7 @@ body {
     left: 6.5em;
     height: 19em;
     width: 19em;
-    border: solid 8px;
+    border: solid 12px;
     border-radius: 150px;
     background-color: white;
 }
@@ -121,8 +129,10 @@ body {
 #name {
     position: relative;
     text-align: center;
-    font-weight: bold;
-    font-size: 400%;
-    margin-top: 40px;
+	font-family: 'Carter One', cursive;
+	font-weight: bold;
+    /*font-family: 'Ubuntu', sans-serif;*/
+    font-size: 450%;
+    margin-top: 60px;
 }
 /**************************************/
