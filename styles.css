@@ -135,4 +135,12 @@ body {
     font-size: 450%;
     margin-top: 60px;
 }
+
+#regSymbol {
+	position: relative;
+	font-weight: normal;
+	font-size: 25%;
+	bottom: 30px;
+	left: 5px;
+}
 /**************************************/
