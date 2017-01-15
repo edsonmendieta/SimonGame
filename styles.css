@@ -138,6 +138,7 @@ body {
     /*font-family: 'Ubuntu', sans-serif;*/
     font-size: 450%;
     margin-top: 60px;
+	margin-bottom: 23px;
 }
 
 #regSymbol {
@@ -146,5 +147,23 @@ body {
 	font-size: 25%;
 	bottom: 30px;
 	left: 5px;
+}
+
+#countBox {
+	display: flex;
+	position: relative;
+	border: black solid 4px;
+	border-radius: 10px;
+	width: 4em;
+	height: 3em;
+	left: 40px;
+	justify-content: center;
+	align-items: center;
+
+}
+
+#countText {
+	color: red;
+	font-size: 200%;
 }
 /**************************************/
