@@ -80,7 +80,8 @@ body {
 /******* Colors & RoundBoxBorders ******/
 
 #cbRed{
-    background-color: #DC050A;
+	background-color: #A2050A;
+    /*background-color: #DC050A;*/
     border-top-left-radius: 250px;
     border-left: solid 16px;
     border-top: solid 16px;
@@ -88,7 +89,8 @@ body {
 }
 
 #cbGreen {
-    background-color: #00A50E;
+	background-color: #006b08;
+    /*background-color: #00A50E;*/
     border-top-right-radius: 250px;
     border-top: solid 16px;
     border-right: solid 16px;
@@ -97,14 +99,16 @@ body {
 }
 
 #cbBlue {
-    background-color: #0093F3;
+	background-color: #215AAD;
+    /*background-color: #0093F3;*/
     border-bottom-left-radius: 250px;
     border-left: solid 16px;
     border-bottom: solid 16px;
 }
 
 #cbYellow {
-    background-color: #FDF001;
+	background-color: #c1b400;
+    /*background-color: #FDF001;*/
     border-bottom-right-radius: 250px;
     border-right: solid 16px;
     border-bottom: solid 16px;
