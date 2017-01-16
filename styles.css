@@ -88,6 +88,7 @@ body {
     border-left: solid 16px;
     border-top: solid 16px;
     border-bottom: solid 16px;
+	box-shadow: 2px -2px 0 7px gray;
 }
 
 #cbGreen {
@@ -98,6 +99,7 @@ body {
     border-right: solid 16px;
     border-left: solid 16px;
     border-bottom: solid 16px;
+	box-shadow: 2px -7px 0 2px gray;
 }
 
 #cbBlue {
@@ -106,6 +108,7 @@ body {
     border-bottom-left-radius: 250px;
     border-left: solid 16px;
     border-bottom: solid 16px;
+	box-shadow: 0 0 0 4px yellow;
 }
 
 #cbYellow {
@@ -115,6 +118,7 @@ body {
     border-right: solid 16px;
     border-bottom: solid 16px;
     border-left: solid 16px;
+	box-shadow: 0 0 0 4px yellow;
 }
 
 /***************************************/
