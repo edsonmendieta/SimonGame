@@ -66,6 +66,8 @@ body {
     width: 32em;
     height: 32em;
     border: green dashed 1px;
+	border-radius: 250px;
+	box-shadow: .5px 1px 0 5px yellow;
 }
 
 .colorBox {
@@ -88,7 +90,7 @@ body {
     border-left: solid 16px;
     border-top: solid 16px;
     border-bottom: solid 16px;
-	box-shadow: 2px -2px 0 7px gray;
+	/*box-shadow: 2px -2px 0 7px gray;*/
 }
 
 #cbGreen {
@@ -99,7 +101,7 @@ body {
     border-right: solid 16px;
     border-left: solid 16px;
     border-bottom: solid 16px;
-	box-shadow: 2px -7px 0 2px gray;
+	/*box-shadow: 2px -7px 0 2px gray;*/
 }
 
 #cbBlue {
@@ -108,7 +110,7 @@ body {
     border-bottom-left-radius: 250px;
     border-left: solid 16px;
     border-bottom: solid 16px;
-	box-shadow: 0 0 0 4px yellow;
+	/*box-shadow: 2px 7px 0 7px gray;*/
 }
 
 #cbYellow {
@@ -118,7 +120,7 @@ body {
     border-right: solid 16px;
     border-bottom: solid 16px;
     border-left: solid 16px;
-	box-shadow: 0 0 0 4px yellow;
+	/*box-shadow: 7px 7px 0 7px gray;*/
 }
 
 /***************************************/
