@@ -65,9 +65,9 @@ body {
 #boxContainer {
     width: 32em;
     height: 32em;
-    border: green dashed 1px;
+    /*border: green dashed 1px;*/
 	border-radius: 250px;
-	box-shadow: .5px 1px 0 5px yellow;
+	box-shadow: .5px 1px 5px 5px #808080;
 }
 
 .colorBox {
