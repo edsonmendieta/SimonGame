@@ -6,6 +6,8 @@
 
 @import url('https://fonts.googleapis.com/css?family=Carter+One|Ubuntu:700');
 
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
 /*****************************************
                 $CSS Reset
 *****************************************/
@@ -159,11 +161,13 @@ body {
 	left: 40px;
 	justify-content: center;
 	align-items: center;
+	font-family: 'Orbitron', sans-serif;
+	background-color: #500E0D;
 
 }
 
 #countText {
 	color: red;
-	font-size: 200%;
+	font-size: 150%;
 }
 /**************************************/
