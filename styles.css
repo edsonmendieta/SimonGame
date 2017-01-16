@@ -173,6 +173,11 @@ body {
 }
 
 #countText {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: inherit;
+	height: inherit;
 	color: red;
 	font-size: 150%;
 }
