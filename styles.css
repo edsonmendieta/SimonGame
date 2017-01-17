@@ -189,13 +189,17 @@ body {
 #startBtn {
 	position: relative;
 	left: 60px;
-	top: 10px;
-	width: 2em;
-	height: 2em;
+	top: 8px;
+	width: 2.15em;
+	height: 2.15em;
 	background-color: green;
 	border: solid #383838 5px;
 	border-radius: 50px;
-	box-shadow: .5px .5px 5px 2px #808080;
+	box-shadow: .5px 3px 5px 0px #808080;
 	cursor: pointer;
+}
+
+#startBtn:active {
+	box-shadow: 0 0 0 0;
 }
 /**************************************/
