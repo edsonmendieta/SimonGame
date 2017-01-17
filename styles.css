@@ -157,6 +157,10 @@ body {
 	left: 5px;
 }
 
+#cpRow {
+	display: flex;
+}
+
 #countBox {
 	display: flex;
 	position: relative;
@@ -180,5 +184,18 @@ body {
 	height: inherit;
 	color: red;
 	font-size: 150%;
+}
+
+#startBtn {
+	position: relative;
+	left: 60px;
+	top: 10px;
+	width: 2em;
+	height: 2em;
+	background-color: green;
+	border: solid #383838 5px;
+	border-radius: 50px;
+	box-shadow: .5px .5px 5px 2px #808080;
+	cursor: pointer;
 }
 /**************************************/
