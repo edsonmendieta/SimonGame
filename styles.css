@@ -188,11 +188,11 @@ body {
 
 #startBtn {
 	position: relative;
-	left: 60px;
+	left: 65px;
 	top: 8px;
 	width: 2.15em;
 	height: 2.15em;
-	background-color: green;
+	background-color: #49E20E;
 	border: solid #383838 5px;
 	border-radius: 50px;
 	box-shadow: .5px 3px 5px 0px #808080;
@@ -200,6 +200,23 @@ body {
 }
 
 #startBtn:active {
+	box-shadow: 0 0 0 0;
+}
+
+#strictBtn {
+	position: relative;
+	left: 100px;
+	top: 8px;
+	width: 2.15em;
+	height: 2.15em;
+	background-color: #ff9000;
+	border: solid #383838 5px;
+	border-radius: 50px;
+	box-shadow: .5px 3px 5px 0px #808080;
+	cursor: pointer;
+}
+
+#strictBtn:active {
 	box-shadow: 0 0 0 0;
 }
 /**************************************/
