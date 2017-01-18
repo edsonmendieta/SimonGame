@@ -33,11 +33,6 @@
                     <div id='startBtn'></div>
                     <div id='strictBtn'></div>
                 </div>
-                <div id='cpRowText'>
-                    <p id='countBoxText'>COUNT</p>
-                    <p id='startBtnText'>START</p>
-                    <p id='strictBtnText'>STRICT</p>
-                </div>
             </div>
         <!-------------------------------->
         </div>

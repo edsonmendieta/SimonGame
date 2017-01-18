@@ -146,7 +146,7 @@ body {
     /*font-family: 'Ubuntu', sans-serif;*/
     font-size: 450%;
     margin-top: 60px;
-	margin-bottom: 15px;
+	margin-bottom: 23px;
 }
 
 #regSymbol {
@@ -159,7 +159,6 @@ body {
 
 #cpRow {
 	display: flex;
-    margin-bottom: 5px;
 }
 
 #countBox {
@@ -219,28 +218,5 @@ body {
 
 #strictBtn:active {
 	box-shadow: 0 0 0 0;
-}
-
-#cpRowText {
-    display: flex;
-    font-family: 'Carter One', sans-serif;
-}
-
-#countBoxText {
-    position: relative;
-    left: 45px;
-    color: green;
-}
-
-#startBtnText {
-    position: relative;
-    left: 68px;
-    color: purple;
-}
-
-#strictBtnText {
-    position: relative;
-    left: 88px;
-    color: blue;
 }
 /**************************************/
