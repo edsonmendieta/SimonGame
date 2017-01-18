@@ -236,23 +236,47 @@ body {
 #cpRowText {
     display: flex;
     font-family: 'Carter One', sans-serif;
+    margin-bottom: 15px;
 }
 
 #countBoxText {
     position: relative;
-    left: 45px;
-    color: green;
+    left: 44.5px;
+    color: black;
 }
 
 #startBtnText {
     position: relative;
     left: 68px;
-    color: purple;
+    color: black;
 }
 
 #strictBtnText {
     position: relative;
     left: 88px;
-    color: blue;
+    color: black;
+}
+
+#cpRowPower {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Carter One', sans-serif;
+}
+
+#offText {
+    padding-right: 4px;
+}
+
+#powerBtn {
+    width: 4em;
+    height: 1.75em;
+    background-color: black;
+    border: solid #303030 2px;
+    border-radius: 3px;
+}
+
+#onText {
+    padding-left: 2px;
 }
 /**************************************/

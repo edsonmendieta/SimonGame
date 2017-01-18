@@ -32,6 +32,12 @@
                     <div id='countBox'><p id='countText'>--</p></div>
                     <div id='startBtn'></div>
                     <div id='strictBtn'></div>
+                    <div id='strictBtnSwitch'></div>
+                </div>
+                <div id='cpRowText'>
+                    <p id='countBoxText'>COUNT</p>
+                    <p id='startBtnText'>START</p>
+                    <p id='strictBtnText'>STRICT</p>
                 </div>
             </div>
         <!-------------------------------->
