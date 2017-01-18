@@ -169,6 +169,7 @@ body {
 	border-radius: 10px;
 	width: 4em;
 	height: 3em;
+    top: -3px;
 	left: 40px;
 	justify-content: center;
 	align-items: center;
@@ -219,6 +220,17 @@ body {
 
 #strictBtn:active {
 	box-shadow: 0 0 0 0;
+}
+
+#strictBtnSwitch {
+    position: relative;
+    width: .6em;
+    height: .6em;
+    background-color: black;
+    border: solid black 2px;
+    border-radius: 4px;
+    bottom: 8px;
+    left: 77px;    
 }
 
 #cpRowText {
